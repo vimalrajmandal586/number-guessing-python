@@ -25,7 +25,7 @@ This is my **second Python project** built while self-learning Python.
 4. Run the file:
 
 ```bash
-python "NUMBER GUESSING.py"
+python "number-guessing.py"
 ```
 
 ---
